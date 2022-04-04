@@ -1,0 +1,32 @@
+.names {
+	display: flex;
+	font-weight: 500;
+	color: #c7c7c7;
+	font-size: 20px;
+	background: #27283c;
+	border-radius: 14px;
+	border-radius: 12px;
+	margin: 0px 16px 16px 28px;
+	padding: 20px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.addButton {
+	color: white;
+	width: 185px;
+	height: 35px;
+	background: #c035a2;
+	border: 2px solid #c035a2;
+	box-sizing: border-box;
+	border-radius: 14px;
+	transition: all 0.2s ease;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+
+.addButton:hover {
+	transform: scale(1.05);
+}

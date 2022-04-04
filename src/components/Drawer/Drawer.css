@@ -1,0 +1,133 @@
+.addDrawer {
+	width: 948px;
+	height: 100%;
+	background-color: #38394e;
+	color: #c7c7c7;
+	font-family: 'Roboto', sans-serif;
+}
+
+.uploudImageButton {
+	border-radius: 14px;
+	width: 526px;
+	height: 122px;
+	background-color: #43445a;
+	margin-top: 50px;
+}
+
+.addInfoButton {
+	border-radius: 14px;
+	width: 526px;
+	height: 266px;
+	/* margin-left: 360px; */
+	margin-top: 65px;
+	background-color: #43445a;
+	border: none;
+}
+
+.headingAddCatagory {
+	font-size: 25px;
+	margin-left: 28px;
+}
+
+.headingAddCat {
+	font-size: 18px;
+	/* margin-top: 33px; */
+	margin-left: 25px;
+	margin-top: 50px;
+}
+
+.addButton {
+	color: white;
+	width: 168px !important;
+	height: 35px !important;
+	padding: 5px 0;
+	background-color: #c035a2;
+	border-style: solid;
+	border-radius: 12px;
+	margin-left: 15px;
+	font-weight: 700;
+	font-size: 14px !important;
+	line-height: 21px;
+	letter-spacing: 0.25px;
+}
+
+/* .aa {
+    margin-top: 33px;
+} */
+
+#addForm {
+	border-radius: 14px;
+	width: 474px;
+	height: 46px;
+	background-color: #5a5b70;
+	margin-top: 13px;
+	color: white;
+	/* margin-right: 5px; */
+	border: none;
+}
+
+#addInfoNS {
+	margin-top: 61px;
+	margin-left: 25px;
+}
+
+.headingFormNAme {
+	margin-top: 45px;
+}
+
+hr.new1 {
+	border: 0.1px solid #43445a;
+	margin: 25px;
+}
+
+#buttonCancel,
+#buttonCreate {
+	display: inline-block;
+	border-radius: 14px;
+	border: none;
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+	padding: 20px;
+	width: 400px;
+	height: 50px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 35px;
+}
+
+#buttonCreate {
+	background-color: #c035a2;
+}
+
+#buttonCreate:hover {
+	background-color: #e71cbb;
+}
+
+#buttonCancel {
+	background-color: #43445a;
+}
+
+#buttonCancel:hover {
+	background-color: #e71cbb;
+}
+
+#formikButtons {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	margin-right: 42px;
+	border: #c035a2;
+}
+
+#imgforUploud {
+	margin-top: 32px;
+	display: block;
+	text-align: center;
+	color: #ec5cf8;
+}
+
+.littleUploud {
+	color: white;
+	text-align: center;
+}

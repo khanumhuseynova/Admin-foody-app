@@ -1,0 +1,36 @@
+.container {
+	margin-right: 20px;
+}
+
+.names {
+	display: flex;
+	font-weight: 500px;
+	color: white;
+	font-size: 20px;
+	border-radius: 0.5px;
+	background-color: #27283c;
+	border-radius: 12px;
+	margin-bottom: 41px;
+	margin-left: 36px;
+	padding: 20px;
+	justify-content: space-between;
+}
+
+.data {
+	background-color: white;
+	margin-left: 36px;
+}
+
+.id {
+	color: white;
+	font-size: 100px;
+}
+
+.addButton {
+	color: white;
+	width: 185px;
+	height: 35px;
+	background-color: #c035a2;
+	border-style: solid;
+	border-radius: 12px;
+}
